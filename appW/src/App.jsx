@@ -1,5 +1,5 @@
 
-import React from "react"
+import './App.css'
 import Login from './componenst/login/login'
 
 function App() {
